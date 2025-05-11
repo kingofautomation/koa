@@ -1,1 +1,50 @@
+<head>
+  <link rel="canonical"
+        href="https://kingofautomation.com/blog/cold-email-icebreaker" />
+  <meta charset="utf-8">
+</head>
+<body>
+  <!-- existing HTML here -->
+</body>
+<h1>How to Build an AI-Driven Cold Email Icebreaker Machine</h1>
 
+<p><strong>Cold outreach isn’t dead</strong>—generic outreach is. We show how
+our clients boost reply rates by <em>5-10×</em> with personalised intros.</p>
+
+<h2>The Bottleneck</h2>
+<p>Manual research caps you at 10 emails/hour. Automation removes that cap.</p>
+
+<h2>What You Need</h2>
+<ul>
+  <li><a href="https://kingofautomation.com/ai-agents#leadgenerator">Lead-Generator AI Agent</a></li>
+  <li><a href="https://www.apify.com/?utm_source=koa&utm_medium=blog_aff">Apify (affiliate)</a> for scraping</li>
+  <li><a href="https://openai.com/">OpenAI GPT-4o</a> for summaries</li>
+</ul>
+
+<h2>Step-by-Step</h2>
+<ol>
+  <li>Scrape 500 leads from Apollo → Google Sheet.</li>
+  <li>Crawl each site, convert HTML to Markdown, feed into GPT.</li>
+  <li>Ask GPT: <code>“Write a 2-line opener showing deep research.”</code></li>
+</ol>
+
+<h3>Key Takeaways</h3>
+<ul>
+  <li>Specific intros beat “Hey {{FirstName}}” templates.</li>
+  <li>Automation ≠ spam—context still matters.</li>
+</ul>
+
+<p><strong>CTA:</strong> Ready to scale outreach? <a href="https://kingofautomation.com/contact">Book a discovery call</a>.</p>
+
+<h3>Image Alt-Text Suggestions</h3>
+<ul>
+  <li>Flowchart of AI scraping and email personalisation</li>
+  <li>Before-after cold email reply rates</li>
+  <li>Dashboard showing 10× outreach productivity</li>
+</ul>
+
+<h3>Sources &amp; Further Reading</h3>
+<ul>
+  <li><a href="https://openai.com/">OpenAI docs</a></li>
+  <li><a href="https://blog.hubspot.com/sales/cold-email-stats">HubSpot cold-email stats</a></li>
+</ul>
